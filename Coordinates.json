@@ -1,0 +1,23 @@
+[
+  {
+	"ID": ,"1",
+    "Lat": "7.47",
+    "Lng" : "80.35",
+    "Des": "Kurunegala-Kandy"
+    
+  },
+  {
+    "ID": ,"2",
+    "Lat": "7.29",
+    "Lng" : "80.63",
+    "Des": "Kurunegala-Colombo"
+    
+  },
+  {
+    "ID": ,"2",
+    "Lat": "6.05",
+    "Lng" : "80.22",
+    "Des": "Kurunegala-Galle"
+    
+  }
+]
